@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello_world.h
+
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/src/hello_world.cpp
+hello_world.h
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/src/hello_world.h
+iostream
+-
+

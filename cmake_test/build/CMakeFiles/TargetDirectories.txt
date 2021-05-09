@@ -1,0 +1,8 @@
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/install/strip.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/install/local.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/edit_cache.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/install.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/list_install_components.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/rebuild_cache.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/HelloWorld.dir
+/media/bitlockermount/Users/Jonathan/Documents/PDF_libros/Ingeniería/labo_progra/ejercicios/cmake_test/build/CMakeFiles/exe.dir

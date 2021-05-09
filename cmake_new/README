@@ -1,0 +1,6 @@
+1) tuve que poner un main en el archivo qrc_triangulation
+2) tuve que crear un main.cpp vacio porque sino no compila?
+
+cmake corre en carpeta donde esten los arhivos:
+.cpp main.cpp inclues de .cpp que no sean bibioletas en /usr CMakeLists.txt
+todas las demás carpetas y archivos son autogenerados

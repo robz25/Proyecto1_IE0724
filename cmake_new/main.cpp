@@ -137,5 +137,17 @@ int main(int argc, char *argv[])
     bool draw_voronoi_vertices = false;
     bool draw_dual_vertices = true;
     CGAL::draw(vd, title, nofill, draw_voronoi_vertices, draw_dual_vertices);
+    //ui->widget->grab().save("image.png");
+
+    /*QPixmap originalPixmap;
+
+    originalPixmap = QPixmap::grabWidget(QtabWidget->currentWidget());
+
+    QString format = "png";
+
+    QString fileName = "myshot.png";
+
+    originalPixmap.save(fileName);
+*/
     return EXIT_SUCCESS;
 }

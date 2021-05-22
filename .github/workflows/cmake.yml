@@ -28,5 +28,3 @@ jobs:
 
     - name: Build Project
       run: cmake -B ${{github.workspace}}/build -DCMAKE_BUILD_TYPE=${{env.BUILD_TYPE}} && cmake --build ${{github.workspace}}/build --config ${{env.BUILD_TYPE}}
-    - name: Run Project
-      run: cd ${{github.workspace}}/build && ./Proyecto1 ../puntos.txt
